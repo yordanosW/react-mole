@@ -1,5 +1,4 @@
 // Just one example
-import Mole from './Mole'
 
 import { useState } from 'react';
 import EmptySlot from './EmptySlot';
